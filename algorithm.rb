@@ -71,7 +71,7 @@ end
 
 if __FILE__ == $0
   # problem configuration
-  num_bits = 64
+  num_bits = 96
   # algorithm configuration
   max_gens = 100
   pop_size = 100
