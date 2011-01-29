@@ -1,0 +1,5 @@
+= Genetic Algorithm example from Creative Algorithms
+The initial code from this repo was borrowed from Jason Brownlee's eBook, <em>Clever Algorithms: Nature-Inspired Programming Recipies</em>, which is (as of 2011-01-28) available for free download or purchase from http://www.lulu.com/product/file-download/clever-algorithms-nature-inspired-programming-recipes/14696557
+
+= Copyright
+Currently no claim of copywrite or ownership is made by the author(s) of this repo. Any ownership rights are forfeited to the author of the book, Jason Brownlee.
